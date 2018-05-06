@@ -1,4 +1,4 @@
-# FeedReader-reads RSS feeds
+# FeedReader
 This is a repository for Project 4 of the Udacity FEND course
 
 ## About This Project
@@ -13,5 +13,8 @@ the project beased on the test-driven javascript programming concept. I used sta
 You can add any spesific test by writing in the feedreader.js you [click here](https://github.com/RehabMadkhali/FeedReader-/blob/master/jasmine/spec/feedreader.js) to go dirctly to the feedreader.js
 
 
+## Resources
+[Jasmine Behavior Driven JavaScript ](https://jasmine.github.io/)
+[Introducing Jasmine to Java developers ](https://www.codesandnotes.be/2014/11/19/introducing-jasmine-to-java-developers/)
 
 
