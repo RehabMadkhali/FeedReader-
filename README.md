@@ -14,8 +14,8 @@ You can add any spesific test by writing in the feedreader.js you [click here](h
 
 
 ## Resources
-1-[Jasmine Behavior Driven JavaScript ](https://jasmine.github.io/)
-2-[Introducing Jasmine to Java developers ](https://www.codesandnotes.be/2014/11/19/introducing-jasmine-to-java-developers/)
-3-[JavaScript Testing](https://www.udacity.com/course/ud549)
+-1-[Jasmine Behavior Driven JavaScript ](https://jasmine.github.io/)
+-2-[Introducing Jasmine to Java developers ](https://www.codesandnotes.be/2014/11/19/introducing-jasmine-to-java-developers/)
+-3-[JavaScript Testing](https://www.udacity.com/course/ud549)
 
 
