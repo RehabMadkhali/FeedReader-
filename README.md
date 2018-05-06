@@ -10,7 +10,7 @@ the project beased on the test-driven javascript programming concept. I used sta
 - You can use the code pen to run the  **index.html**  [click here]( https://codepen.io/)
 
 ## Want to add more tests!
-You can add any spesific test by writing in the feedreader.js you [click here]() to go dirctly to the feedreader.js
+You can add any spesific test by writing in the feedreader.js you [click here](https://github.com/RehabMadkhali/FeedReader-/blob/master/jasmine/spec/feedreader.js) to go dirctly to the feedreader.js
 
 
 
